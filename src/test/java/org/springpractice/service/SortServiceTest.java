@@ -1,6 +1,6 @@
-package org.example.service;
+package org.springpractice.service;
 
-import org.example.logic.JavaSort;
+import org.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
